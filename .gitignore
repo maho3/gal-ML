@@ -1,11 +1,3 @@
-# data
-*.p
-*.npy
-*.zip
-
-# code
-*.pyc
-
-# folders
-data/
+images/
 .ipynb_checkpoints/
+data/
